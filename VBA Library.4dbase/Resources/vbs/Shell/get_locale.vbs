@@ -1,0 +1,2 @@
+WScript.StdOut.Write GetLocale()
+
