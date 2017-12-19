@@ -13,8 +13,7 @@ Collection of tools based on VBA script
 
 * Example of calling system functions
 
-<img width="576" alt="2017-12-20 7 32 09" src="https://user-images.githubusercontent.com/1725068/34182022-fe60e4b8-e557-11e7-980f-ea0b16b39043.png">
-
+<img width="570" alt="2017-12-20 7 34 01" src="https://user-images.githubusercontent.com/1725068/34182069-2f80056a-e558-11e7-86a9-c70299924b2a.png">
 
 ```
 VBA_System_Get_version
