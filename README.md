@@ -11,6 +11,11 @@ Collection of tools based on VBA script
 
 <img src="https://cloud.githubusercontent.com/assets/1725068/18940649/21945000-8645-11e6-86ed-4a0f800e5a73.png" width="32" height="32" /> <img src="https://cloud.githubusercontent.com/assets/1725068/18940648/2192ddba-8645-11e6-864d-6d5692d55717.png" width="32" height="32" />
 
+* Example of calling system functions
+
+<img width="576" alt="2017-12-20 7 32 09" src="https://user-images.githubusercontent.com/1725068/34182022-fe60e4b8-e557-11e7-980f-ea0b16b39043.png">
+
+
 ```
 VBA_System_Get_version
 VBA_System_Get_serial_number
